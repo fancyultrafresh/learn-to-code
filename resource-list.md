@@ -4,8 +4,8 @@
 
 - [intro](#intro)
 - [rescources](#resources)
-  - [local groups/events](#LOCAL-GROUPS/EVENTS)
-  - [local libraries and schools](#LOCAL LIBRARIES AND SCHOOLS)
+  - [local groups/events](#local-groups/events)
+  - [local libraries and schools](#LOCAL-LIBRARIES-AND-SCHOOLS)
   - [reference sites](#reference sites)
   - [resource sites](#RESOURCE SITES)
   - [free education sites](#FREE EDUCATION SITES)
