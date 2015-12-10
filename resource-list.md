@@ -149,5 +149,3 @@ Check out [my inspiration for this list](https://github.com/Michael0x2a/curated-
 #### [try git](https://try.github.io/levels/1/challenges/1)
 
   Git is a version control system. A version control system alows you to work on code projects with other developers simultanesouly without overriding each other's code, maintaining records of changes, and lots of interesting, sometimes complicated, but super useful stuff.
-
-#### [gitHub Wheelhouse]()
