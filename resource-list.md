@@ -4,7 +4,7 @@
 
 - [intro](#intro)
 - [rescources](#resources)
-  - [local groups/events](#local-groups/events)
+  - [local groups/events](#local-groupsevents)
   - [local libraries and schools](#LOCAL-LIBRARIES-AND-SCHOOLS)
   - [reference sites](#reference sites)
   - [resource sites](#RESOURCE SITES)
