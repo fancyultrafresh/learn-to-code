@@ -5,13 +5,13 @@
 - [intro](#intro)
 - [rescources](#resources)
   - [local groups/events](#local-groupsevents)
-  - [local libraries and schools](#LOCAL-LIBRARIES-AND-SCHOOLS)
-  - [reference sites](#reference sites)
-  - [resource sites](#RESOURCE SITES)
-  - [free education sites](#FREE EDUCATION SITES)
-  - [education sites with free options](#EDUCATION SITES WITH FREE OPTIONS)
-  - [not free education sies](#NOT FREE EDUCATION SITES)
-  - [specific tutorial sites](#SPECIFIC TUTORIAL SITES)
+  - [local libraries and schools](#local-libraries-and-schools)
+  - [reference sites](#reference-sites)
+  - [resource sites](#resource-sites)
+  - [free education sites](#free-education-sites)
+  - [education sites with free options](#education-sites-with-free-options)
+  - [not free education sies](#not-free-education-sites)
+  - [specific tutorial sites](#specific-tutorial-sites)
 
 ------------
 ## intro
