@@ -40,9 +40,17 @@ Check out [my inspiration for this list](https://github.com/Michael0x2a/curated-
 
   Also similar - lots of hackathons and events
 
-#### [Coder Dojo](https://coderdojo.com/)
+#### [CoderDojoChi](http://coderdojochi.org/)
 
   Aimed at children - physical location with classes
+
+#### [Adler Planetarium](http://www.adlerplanetarium.org/)
+
+  Various opportunities throughout the year for [STEM mentoring](http://www.adlerplanetarium.org/wp-content/uploads/STEM-Mentor-Description-2015-2016.pdf)
+
+#### [ChickTechChicago](http://chicago.chicktech.org/)
+
+  Initiative to increase the number of women and girls pursuing technology-based careers
   
 ### LOCAL LIBRARIES AND SCHOOLS
   If you prefer a more traditional setting to learn, this might be a great option. Libraries often have computer labs - check your local library's event schedule to see if they host any technology learning events. Technical colleges will obviously cost money but might be more affordable and accessible than a university degree or coding bootcamp.
