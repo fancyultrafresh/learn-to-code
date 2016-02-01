@@ -102,7 +102,7 @@ Check out [my inspiration for this list](https://github.com/Michael0x2a/curated-
 
 #### [Learn Code the Hard Way](http://learncodethehardway.org/)
 
-  Published books about learning a few different languages made available for free in HTML format. A great way to actual dig in an learn a programming language by completeing exercises. (These are for beginners - don't let the name scare you away.)
+  Published books about learning a few different languages made available for free in HTML format. A great way to actually dig in and learn a programming language by completeing exercises. (These are for beginners - don't let the name scare you away.)
 
 #### [MIT OpenCourseware](http://ocw.mit.edu/index.htm)
 
@@ -152,7 +152,7 @@ Check out [my inspiration for this list](https://github.com/Michael0x2a/curated-
 
 #### [Open Vim](http://www.openvim.com/)
 
-  Vim tutorial - vim is an editor many programmers use since you can use it only using your keyboard (no clicks). This is preferred for many "advanced" programmers whose activity is mostly typing, meaning they don't have to break up their seasoned, quick typing with mosue clicks.
+  Vim tutorial - vim is an editor many programmers use since you can use it only using your keyboard (no clicks). This is preferred for many "advanced" programmers whose activity is mostly typing, meaning they don't have to break up their seasoned, quick typing with mouse clicks.
 
 #### [try git](https://try.github.io/levels/1/challenges/1)
 
